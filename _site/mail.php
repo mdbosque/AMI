@@ -21,7 +21,7 @@
 
         // Set the recipient email address.
         // FIXME: Update this to your desired email address.
-        $recipient = "woehrlej53@yahoo.com ";
+        $recipient = "john@austinmoldinspector.com";
 
         // Set the email subject.
         $subject = "AMI:New Message from $name";
